@@ -7,9 +7,16 @@ Merge payloads seamlessly with original APKs.
 Automate the integration of payloads for security testing.
 Error handling and feedback mechanisms for smooth operation.
 Designed for penetration testers and security professionals.
+![Screenshot from 2024-08-06 18-04-09](https://github.com/user-attachments/assets/a34cd88a-27b4-4388-a213-2ba5897d8d97)
 Usage:
 Requirements: Ensure msfvenom and necessary dependencies are installed.
 Configuration: Provide payload parameters and paths to original APK files.
 Execution: Run ALHARAM-RAT to generate and integrate the RAT into APKs.
 Explore the capabilities of ALHARAM-RAT to enhance your Android security assessments and ethical hacking endeavors.
-![Screenshot from 2024-08-05 23-48-43](https://github.com/user-attachments/assets/eca5ea33-00be-4fe6-9e28-32adef272324)
+# INSTALLATION
+cd setup 
+./setup.sh
+# IMPORTANT
+the sessioninstall.sh file is using to install your session in the target device to not to lose the session.
+![Screenshot from 2024-08-06 18-05-26](https://github.com/user-attachments/assets/f7ed84c6-c045-45bc-b02a-f2af861eeacc)
+
