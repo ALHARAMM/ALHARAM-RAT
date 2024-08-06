@@ -12,3 +12,4 @@ Requirements: Ensure msfvenom and necessary dependencies are installed.
 Configuration: Provide payload parameters and paths to original APK files.
 Execution: Run ALHARAM-RAT to generate and integrate the RAT into APKs.
 Explore the capabilities of ALHARAM-RAT to enhance your Android security assessments and ethical hacking endeavors.
+![Screenshot from 2024-08-05 22-15-10](https://github.com/user-attachments/assets/e36beea2-9d2f-4bf5-9117-08c35104596a)
