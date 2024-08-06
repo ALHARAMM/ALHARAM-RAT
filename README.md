@@ -18,6 +18,7 @@ Explore the capabilities of ALHARAM-RAT to enhance your Android security assessm
 
 # INSTALLATION
 cd setup 
+
 ./setup.sh
 
 # IMPORTANT
